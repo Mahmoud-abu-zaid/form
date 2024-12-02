@@ -42,6 +42,7 @@ li a:hover{
     display: flex;
     justify-content:space-around;
     align-items:center ;
+    flex-wrap: wrap;
     width: 100%;
     height: 95%;
     padding: 30px;
@@ -51,7 +52,7 @@ h2{
 }
 
 .text_center{
-    width: 50%;
+    width: 60%;
 }
 
 p span{
